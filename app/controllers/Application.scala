@@ -6,7 +6,7 @@ import play.api.mvc._
 object Application extends Controller {
 
   def index = Action {
-    Ok("hello apps 4.1")
+    Ok("hello apps 4.2")
   }
 
 }
